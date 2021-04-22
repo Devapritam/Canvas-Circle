@@ -1,0 +1,30 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+html{
+	font-family: 'Akaya Telivigala', cursive;
+}
+
+#myCanvas{
+	border-width: 10px;
+	background-color: white;
+	border-style: ridge;
+}
+
+.clearRect {
+	width: 120px;
+	height: 30px;
+	border: 1px solid black;
+	border-radius: 0 10px 0 10px;
+	font-family: 'Akaya Telivigala', cursive;
+	box-shadow: 0 2px 20px rgba(0, 0, 0, 0.8);
+}
